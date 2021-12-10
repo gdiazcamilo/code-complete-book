@@ -1,0 +1,3 @@
+Questions to answer:
+- Pass single parameters vs passing an object?
+- In a class, use class data (properties shared between all the class' methods by using `this` or `self`) or pass parameters to methods?
